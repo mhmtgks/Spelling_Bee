@@ -62,7 +62,7 @@ public class DataManagement {
     }
     public ArrayList<String> generatableWords(String words) throws FileNotFoundException {
         dictionary.clear();
-        File Data = new File("data.txt");
+        File Data = new File("sozluk_v2.txt");
         Scanner scan = new Scanner(Data);
         String a ="";
         String b="";

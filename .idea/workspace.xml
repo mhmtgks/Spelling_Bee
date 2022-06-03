@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba7f914-326a-4d79-aa68-e895ccd264cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo2/GameManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo2/GameManagement.java" afterDir="false" />
-    </list>
+    <list default="true" id="1ba7f914-326a-4d79-aa68-e895ccd264cb" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +89,16 @@
       <updated>1654074584958</updated>
       <workItem from="1654074586094" duration="2448000" />
       <workItem from="1654077054490" duration="8510000" />
-      <workItem from="1654156358295" duration="1613000" />
+      <workItem from="1654156358295" duration="1908000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1654158259974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654158259974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +114,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
