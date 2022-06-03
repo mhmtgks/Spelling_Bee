@@ -35,13 +35,6 @@ public class GameManagement extends DataManagement {
         }while(!(dictionary.size()<=80 && dictionary.size()>=20));
     }
 
-
-
-
-
-
-
-
 }
 
 
