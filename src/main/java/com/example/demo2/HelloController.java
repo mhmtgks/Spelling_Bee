@@ -73,6 +73,7 @@ public class HelloController {
         Sözlük=gm.getDictionary();
         puan=0;
         txtlbl.setText("");
+
     }
     @FXML
     protected void onManuelClicked(){

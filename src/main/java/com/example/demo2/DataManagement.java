@@ -19,7 +19,7 @@ public class DataManagement {
     public DataManagement() throws FileNotFoundException, IOException, NullPointerException { //çift constructer yapılacak boş girdili
         mod=1;
         String a ="";
-        File Data = new File("data.txt");
+        File Data = new File("sozluk_v2.txt");
         Scanner scan = new Scanner(Data);
         while((scan.hasNext())) {
             a = scan.nextLine();
